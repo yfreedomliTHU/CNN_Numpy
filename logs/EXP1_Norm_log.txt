@@ -1,0 +1,213 @@
+2020-01-10 13:08:28  epoch: 0 ,  batch:    49 , avg_batch_acc: 0.0700  avg_batch_loss: 2.3045  learning_rate 0.005000
+2020-01-10 13:11:32  epoch: 0 ,  batch:    99 , avg_batch_acc: 0.1000  avg_batch_loss: 2.2996  learning_rate 0.005000
+2020-01-10 13:14:42  epoch: 0 ,  batch:   149 , avg_batch_acc: 0.2300  avg_batch_loss: 2.2765  learning_rate 0.005000
+2020-01-10 13:17:48  epoch: 0 ,  batch:   199 , avg_batch_acc: 0.5400  avg_batch_loss: 1.8743  learning_rate 0.005000
+2020-01-10 13:23:45  epoch:     0 , train_acc: 0.1786  train_loss: 2.2650  val_acc: 0.6030  val_loss: 1.8667
+2020-01-10 13:27:06  epoch: 0 ,  batch:   249 , avg_batch_acc: 0.8000  avg_batch_loss: 0.7734  learning_rate 0.005000
+2020-01-10 13:30:22  epoch: 0 ,  batch:   299 , avg_batch_acc: 0.8100  avg_batch_loss: 0.5596  learning_rate 0.005000
+2020-01-10 13:33:40  epoch: 0 ,  batch:   349 , avg_batch_acc: 0.7200  avg_batch_loss: 0.7526  learning_rate 0.005000
+2020-01-10 13:36:52  epoch: 0 ,  batch:   399 , avg_batch_acc: 0.8700  avg_batch_loss: 0.3965  learning_rate 0.005000
+2020-01-10 13:42:55  epoch:     0 , train_acc: 0.7423  train_loss: 0.8656  val_acc: 0.8401  val_loss: 0.4920
+2020-01-10 13:46:08  epoch: 0 ,  batch:   449 , avg_batch_acc: 0.8400  avg_batch_loss: 0.5033  learning_rate 0.005000
+2020-01-10 13:49:20  epoch: 0 ,  batch:   499 , avg_batch_acc: 0.9100  avg_batch_loss: 0.3365  learning_rate 0.005000
+2020-01-10 13:52:36  epoch: 0 ,  batch:   549 , avg_batch_acc: 0.9100  avg_batch_loss: 0.4273  learning_rate 0.005000
+2020-01-10 13:55:50  epoch: 0 ,  batch:   599 , avg_batch_acc: 0.8800  avg_batch_loss: 0.5454  learning_rate 0.005000
+2020-01-10 14:01:35  epoch:     0 , train_acc: 0.8686  train_loss: 0.4295  val_acc: 0.9035  val_loss: 0.3290
+2020-01-10 14:04:45  epoch: 1 ,  batch:    49 , avg_batch_acc: 0.8900  avg_batch_loss: 0.3540  learning_rate 0.003972
+2020-01-10 14:07:58  epoch: 1 ,  batch:    99 , avg_batch_acc: 0.9100  avg_batch_loss: 0.3057  learning_rate 0.003972
+2020-01-10 14:11:14  epoch: 1 ,  batch:   149 , avg_batch_acc: 0.9300  avg_batch_loss: 0.2755  learning_rate 0.003972
+2020-01-10 14:14:32  epoch: 1 ,  batch:   199 , avg_batch_acc: 0.9100  avg_batch_loss: 0.2559  learning_rate 0.003972
+2020-01-10 14:20:08  epoch:     1 , train_acc: 0.9045  train_loss: 0.3188  val_acc: 0.9210  val_loss: 0.2720
+2020-01-10 14:23:16  epoch: 1 ,  batch:   249 , avg_batch_acc: 0.9500  avg_batch_loss: 0.2576  learning_rate 0.003972
+2020-01-10 14:26:33  epoch: 1 ,  batch:   299 , avg_batch_acc: 0.8600  avg_batch_loss: 0.3309  learning_rate 0.003972
+2020-01-10 14:29:49  epoch: 1 ,  batch:   349 , avg_batch_acc: 0.9600  avg_batch_loss: 0.2840  learning_rate 0.003972
+2020-01-10 14:33:13  epoch: 1 ,  batch:   399 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1889  learning_rate 0.003972
+2020-01-10 14:39:26  epoch:     1 , train_acc: 0.9158  train_loss: 0.2865  val_acc: 0.9301  val_loss: 0.2407
+2020-01-10 14:42:56  epoch: 1 ,  batch:   449 , avg_batch_acc: 0.9000  avg_batch_loss: 0.2220  learning_rate 0.003972
+2020-01-10 14:46:27  epoch: 1 ,  batch:   499 , avg_batch_acc: 0.8800  avg_batch_loss: 0.3896  learning_rate 0.003972
+2020-01-10 14:50:00  epoch: 1 ,  batch:   549 , avg_batch_acc: 0.9400  avg_batch_loss: 0.2174  learning_rate 0.003972
+2020-01-10 14:53:29  epoch: 1 ,  batch:   599 , avg_batch_acc: 0.9300  avg_batch_loss: 0.2151  learning_rate 0.003972
+2020-01-10 14:59:56  epoch:     1 , train_acc: 0.9274  train_loss: 0.2433  val_acc: 0.9414  val_loss: 0.2092
+2020-01-10 15:05:12  epoch: 2 ,  batch:    49 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1223  learning_rate 0.003155
+2020-01-10 15:10:36  epoch: 2 ,  batch:    99 , avg_batch_acc: 0.9900  avg_batch_loss: 0.1204  learning_rate 0.003155
+2020-01-10 15:16:07  epoch: 2 ,  batch:   149 , avg_batch_acc: 0.9200  avg_batch_loss: 0.2241  learning_rate 0.003155
+2020-01-10 15:21:06  epoch: 2 ,  batch:   199 , avg_batch_acc: 0.9300  avg_batch_loss: 0.2731  learning_rate 0.003155
+2020-01-10 15:27:51  epoch:     2 , train_acc: 0.9374  train_loss: 0.2188  val_acc: 0.9449  val_loss: 0.1892
+2020-01-10 15:33:22  epoch: 2 ,  batch:   249 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1810  learning_rate 0.003155
+2020-01-10 15:38:58  epoch: 2 ,  batch:   299 , avg_batch_acc: 0.9300  avg_batch_loss: 0.2336  learning_rate 0.003155
+2020-01-10 15:44:42  epoch: 2 ,  batch:   349 , avg_batch_acc: 0.9200  avg_batch_loss: 0.3468  learning_rate 0.003155
+2020-01-10 15:50:14  epoch: 2 ,  batch:   399 , avg_batch_acc: 0.9200  avg_batch_loss: 0.2210  learning_rate 0.003155
+2020-01-10 15:57:05  epoch:     2 , train_acc: 0.9416  train_loss: 0.1944  val_acc: 0.9470  val_loss: 0.1850
+2020-01-10 16:02:31  epoch: 2 ,  batch:   449 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1999  learning_rate 0.003155
+2020-01-10 16:08:02  epoch: 2 ,  batch:   499 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1395  learning_rate 0.003155
+2020-01-10 16:13:39  epoch: 2 ,  batch:   549 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1688  learning_rate 0.003155
+2020-01-10 16:19:39  epoch: 2 ,  batch:   599 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1490  learning_rate 0.003155
+2020-01-10 16:26:54  epoch:     2 , train_acc: 0.9476  train_loss: 0.1799  val_acc: 0.9520  val_loss: 0.1660
+2020-01-10 16:32:25  epoch: 3 ,  batch:    49 , avg_batch_acc: 0.9100  avg_batch_loss: 0.3271  learning_rate 0.002506
+2020-01-10 16:38:07  epoch: 3 ,  batch:    99 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1442  learning_rate 0.002506
+2020-01-10 16:43:59  epoch: 3 ,  batch:   149 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1660  learning_rate 0.002506
+2020-01-10 16:49:55  epoch: 3 ,  batch:   199 , avg_batch_acc: 0.9100  avg_batch_loss: 0.2922  learning_rate 0.002506
+2020-01-10 16:57:02  epoch:     3 , train_acc: 0.9487  train_loss: 0.1723  val_acc: 0.9532  val_loss: 0.1577
+2020-01-10 17:02:43  epoch: 3 ,  batch:   249 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0948  learning_rate 0.002506
+2020-01-10 17:08:36  epoch: 3 ,  batch:   299 , avg_batch_acc: 0.9000  avg_batch_loss: 0.2755  learning_rate 0.002506
+2020-01-10 17:14:06  epoch: 3 ,  batch:   349 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0915  learning_rate 0.002506
+2020-01-10 17:19:44  epoch: 3 ,  batch:   399 , avg_batch_acc: 0.9300  avg_batch_loss: 0.1665  learning_rate 0.002506
+2020-01-10 17:26:51  epoch:     3 , train_acc: 0.9535  train_loss: 0.1631  val_acc: 0.9562  val_loss: 0.1486
+2020-01-10 17:31:29  epoch: 3 ,  batch:   449 , avg_batch_acc: 0.9300  avg_batch_loss: 0.2085  learning_rate 0.002506
+2020-01-10 17:36:50  epoch: 3 ,  batch:   499 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0734  learning_rate 0.002506
+2020-01-10 17:42:12  epoch: 3 ,  batch:   549 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1436  learning_rate 0.002506
+2020-01-10 17:47:40  epoch: 3 ,  batch:   599 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1660  learning_rate 0.002506
+2020-01-10 17:56:24  epoch:     3 , train_acc: 0.9555  train_loss: 0.1508  val_acc: 0.9596  val_loss: 0.1420
+2020-01-10 18:03:16  epoch: 4 ,  batch:    49 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0546  learning_rate 0.001991
+2020-01-10 18:10:14  epoch: 4 ,  batch:    99 , avg_batch_acc: 0.9800  avg_batch_loss: 0.1067  learning_rate 0.001991
+2020-01-10 18:17:26  epoch: 4 ,  batch:   149 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1691  learning_rate 0.001991
+2020-01-10 18:24:41  epoch: 4 ,  batch:   199 , avg_batch_acc: 0.9400  avg_batch_loss: 0.2512  learning_rate 0.001991
+2020-01-10 18:33:50  epoch:     4 , train_acc: 0.9575  train_loss: 0.1442  val_acc: 0.9592  val_loss: 0.1362
+2020-01-10 18:39:30  epoch: 4 ,  batch:   249 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0714  learning_rate 0.001991
+2020-01-10 18:45:31  epoch: 4 ,  batch:   299 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0890  learning_rate 0.001991
+2020-01-10 18:51:32  epoch: 4 ,  batch:   349 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0954  learning_rate 0.001991
+2020-01-10 18:57:44  epoch: 4 ,  batch:   399 , avg_batch_acc: 0.9200  avg_batch_loss: 0.2371  learning_rate 0.001991
+2020-01-10 19:07:14  epoch:     4 , train_acc: 0.9580  train_loss: 0.1460  val_acc: 0.9615  val_loss: 0.1306
+2020-01-10 19:14:25  epoch: 4 ,  batch:   449 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1290  learning_rate 0.001991
+2020-01-10 19:22:01  epoch: 4 ,  batch:   499 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1000  learning_rate 0.001991
+2020-01-10 19:29:19  epoch: 4 ,  batch:   549 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0789  learning_rate 0.001991
+2020-01-10 19:36:31  epoch: 4 ,  batch:   599 , avg_batch_acc: 0.9500  avg_batch_loss: 0.2741  learning_rate 0.001991
+2020-01-10 19:45:32  epoch:     4 , train_acc: 0.9572  train_loss: 0.1413  val_acc: 0.9630  val_loss: 0.1263
+2020-01-10 19:51:41  epoch: 5 ,  batch:    49 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0870  learning_rate 0.001581
+2020-01-10 19:59:14  epoch: 5 ,  batch:    99 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0966  learning_rate 0.001581
+2020-01-10 20:06:54  epoch: 5 ,  batch:   149 , avg_batch_acc: 0.9900  avg_batch_loss: 0.1145  learning_rate 0.001581
+2020-01-10 20:14:17  epoch: 5 ,  batch:   199 , avg_batch_acc: 0.9500  avg_batch_loss: 0.2065  learning_rate 0.001581
+2020-01-10 20:23:53  epoch:     5 , train_acc: 0.9610  train_loss: 0.1319  val_acc: 0.9631  val_loss: 0.1240
+2020-01-10 20:31:07  epoch: 5 ,  batch:   249 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0869  learning_rate 0.001581
+2020-01-10 20:37:34  epoch: 5 ,  batch:   299 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1461  learning_rate 0.001581
+2020-01-10 20:45:03  epoch: 5 ,  batch:   349 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0682  learning_rate 0.001581
+2020-01-10 20:52:39  epoch: 5 ,  batch:   399 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0615  learning_rate 0.001581
+2020-01-10 21:02:34  epoch:     5 , train_acc: 0.9600  train_loss: 0.1311  val_acc: 0.9639  val_loss: 0.1245
+2020-01-10 21:09:52  epoch: 5 ,  batch:   449 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1075  learning_rate 0.001581
+2020-01-10 21:17:30  epoch: 5 ,  batch:   499 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0890  learning_rate 0.001581
+2020-01-10 21:25:22  epoch: 5 ,  batch:   549 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1924  learning_rate 0.001581
+2020-01-10 21:33:10  epoch: 5 ,  batch:   599 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1878  learning_rate 0.001581
+2020-01-10 21:42:31  epoch:     5 , train_acc: 0.9605  train_loss: 0.1333  val_acc: 0.9641  val_loss: 0.1224
+2020-01-10 21:50:07  epoch: 6 ,  batch:    49 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0789  learning_rate 0.001256
+2020-01-10 21:57:44  epoch: 6 ,  batch:    99 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1060  learning_rate 0.001256
+2020-01-10 22:05:10  epoch: 6 ,  batch:   149 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0568  learning_rate 0.001256
+2020-01-10 22:12:46  epoch: 6 ,  batch:   199 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0789  learning_rate 0.001256
+2020-01-10 22:22:17  epoch:     6 , train_acc: 0.9636  train_loss: 0.1193  val_acc: 0.9660  val_loss: 0.1151
+2020-01-10 22:29:55  epoch: 6 ,  batch:   249 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1180  learning_rate 0.001256
+2020-01-10 22:37:43  epoch: 6 ,  batch:   299 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1370  learning_rate 0.001256
+2020-01-10 22:45:12  epoch: 6 ,  batch:   349 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0594  learning_rate 0.001256
+2020-01-10 22:52:27  epoch: 6 ,  batch:   399 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1150  learning_rate 0.001256
+2020-01-10 23:01:45  epoch:     6 , train_acc: 0.9625  train_loss: 0.1286  val_acc: 0.9674  val_loss: 0.1131
+2020-01-10 23:09:15  epoch: 6 ,  batch:   449 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1620  learning_rate 0.001256
+2020-01-10 23:16:45  epoch: 6 ,  batch:   499 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0974  learning_rate 0.001256
+2020-01-10 23:24:17  epoch: 6 ,  batch:   549 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0819  learning_rate 0.001256
+2020-01-10 23:31:41  epoch: 6 ,  batch:   599 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0869  learning_rate 0.001256
+2020-01-10 23:41:13  epoch:     6 , train_acc: 0.9628  train_loss: 0.1252  val_acc: 0.9667  val_loss: 0.1105
+2020-01-10 23:48:37  epoch: 7 ,  batch:    49 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0277  learning_rate 0.000998
+2020-01-10 23:56:07  epoch: 7 ,  batch:    99 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0944  learning_rate 0.000998
+2020-01-11 00:03:50  epoch: 7 ,  batch:   149 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1718  learning_rate 0.000998
+2020-01-11 00:11:15  epoch: 7 ,  batch:   199 , avg_batch_acc: 0.9800  avg_batch_loss: 0.1282  learning_rate 0.000998
+2020-01-11 00:20:52  epoch:     7 , train_acc: 0.9622  train_loss: 0.1271  val_acc: 0.9668  val_loss: 0.1118
+2020-01-11 00:28:12  epoch: 7 ,  batch:   249 , avg_batch_acc: 0.9600  avg_batch_loss: 0.2013  learning_rate 0.000998
+2020-01-11 00:35:45  epoch: 7 ,  batch:   299 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1220  learning_rate 0.000998
+2020-01-11 00:43:22  epoch: 7 ,  batch:   349 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0791  learning_rate 0.000998
+2020-01-11 00:50:47  epoch: 7 ,  batch:   399 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1303  learning_rate 0.000998
+2020-01-11 01:00:03  epoch:     7 , train_acc: 0.9651  train_loss: 0.1139  val_acc: 0.9679  val_loss: 0.1084
+2020-01-11 01:07:35  epoch: 7 ,  batch:   449 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1477  learning_rate 0.000998
+2020-01-11 01:15:16  epoch: 7 ,  batch:   499 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0687  learning_rate 0.000998
+2020-01-11 01:23:01  epoch: 7 ,  batch:   549 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0395  learning_rate 0.000998
+2020-01-11 01:30:46  epoch: 7 ,  batch:   599 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0272  learning_rate 0.000998
+2020-01-11 01:39:59  epoch:     7 , train_acc: 0.9657  train_loss: 0.1157  val_acc: 0.9683  val_loss: 0.1086
+2020-01-11 01:47:38  epoch: 8 ,  batch:    49 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1802  learning_rate 0.000792
+2020-01-11 01:55:05  epoch: 8 ,  batch:    99 , avg_batch_acc: 0.9300  avg_batch_loss: 0.1565  learning_rate 0.000792
+2020-01-11 02:02:30  epoch: 8 ,  batch:   149 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1648  learning_rate 0.000792
+2020-01-11 02:10:19  epoch: 8 ,  batch:   199 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1179  learning_rate 0.000792
+2020-01-11 02:19:49  epoch:     8 , train_acc: 0.9637  train_loss: 0.1201  val_acc: 0.9687  val_loss: 0.1071
+2020-01-11 02:27:24  epoch: 8 ,  batch:   249 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0696  learning_rate 0.000792
+2020-01-11 02:34:54  epoch: 8 ,  batch:   299 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1256  learning_rate 0.000792
+2020-01-11 02:42:39  epoch: 8 ,  batch:   349 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0282  learning_rate 0.000792
+2020-01-11 02:50:17  epoch: 8 ,  batch:   399 , avg_batch_acc: 0.9400  avg_batch_loss: 0.2726  learning_rate 0.000792
+2020-01-11 02:58:50  epoch:     8 , train_acc: 0.9648  train_loss: 0.1183  val_acc: 0.9680  val_loss: 0.1071
+2020-01-11 03:05:32  epoch: 8 ,  batch:   449 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1387  learning_rate 0.000792
+2020-01-11 03:12:22  epoch: 8 ,  batch:   499 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0875  learning_rate 0.000792
+2020-01-11 03:19:17  epoch: 8 ,  batch:   549 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0873  learning_rate 0.000792
+2020-01-11 03:25:51  epoch: 8 ,  batch:   599 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0522  learning_rate 0.000792
+2020-01-11 03:33:46  epoch:     8 , train_acc: 0.9687  train_loss: 0.1067  val_acc: 0.9687  val_loss: 0.1051
+2020-01-11 03:40:22  epoch: 9 ,  batch:    49 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1449  learning_rate 0.000629
+2020-01-11 03:46:46  epoch: 9 ,  batch:    99 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0683  learning_rate 0.000629
+2020-01-11 03:53:13  epoch: 9 ,  batch:   149 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1184  learning_rate 0.000629
+2020-01-11 03:59:34  epoch: 9 ,  batch:   199 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1159  learning_rate 0.000629
+2020-01-11 04:07:32  epoch:     9 , train_acc: 0.9648  train_loss: 0.1166  val_acc: 0.9699  val_loss: 0.1039
+2020-01-11 04:14:01  epoch: 9 ,  batch:   249 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0520  learning_rate 0.000629
+2020-01-11 04:20:24  epoch: 9 ,  batch:   299 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1789  learning_rate 0.000629
+2020-01-11 04:26:59  epoch: 9 ,  batch:   349 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0446  learning_rate 0.000629
+2020-01-11 04:33:23  epoch: 9 ,  batch:   399 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0991  learning_rate 0.000629
+2020-01-11 04:41:27  epoch:     9 , train_acc: 0.9664  train_loss: 0.1116  val_acc: 0.9689  val_loss: 0.1039
+2020-01-11 04:47:57  epoch: 9 ,  batch:   449 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1439  learning_rate 0.000629
+2020-01-11 04:54:30  epoch: 9 ,  batch:   499 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1804  learning_rate 0.000629
+2020-01-11 05:00:51  epoch: 9 ,  batch:   549 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0376  learning_rate 0.000629
+2020-01-11 05:07:25  epoch: 9 ,  batch:   599 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0740  learning_rate 0.000629
+2020-01-11 05:15:35  epoch:     9 , train_acc: 0.9674  train_loss: 0.1079  val_acc: 0.9687  val_loss: 0.1054
+2020-01-11 05:22:15  epoch: 10 ,  batch:    49 , avg_batch_acc: 0.9400  avg_batch_loss: 0.2131  learning_rate 0.000500
+2020-01-11 05:28:41  epoch: 10 ,  batch:    99 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0592  learning_rate 0.000500
+2020-01-11 05:35:16  epoch: 10 ,  batch:   149 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0858  learning_rate 0.000500
+2020-01-11 05:41:51  epoch: 10 ,  batch:   199 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1340  learning_rate 0.000500
+2020-01-11 05:49:54  epoch:    10 , train_acc: 0.9657  train_loss: 0.1117  val_acc: 0.9704  val_loss: 0.1021
+2020-01-11 05:56:26  epoch: 10 ,  batch:   249 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0495  learning_rate 0.000500
+2020-01-11 06:03:02  epoch: 10 ,  batch:   299 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0658  learning_rate 0.000500
+2020-01-11 06:09:21  epoch: 10 ,  batch:   349 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0939  learning_rate 0.000500
+2020-01-11 06:15:55  epoch: 10 ,  batch:   399 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0956  learning_rate 0.000500
+2020-01-11 06:23:51  epoch:    10 , train_acc: 0.9679  train_loss: 0.1075  val_acc: 0.9698  val_loss: 0.1012
+2020-01-11 06:30:18  epoch: 10 ,  batch:   449 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1237  learning_rate 0.000500
+2020-01-11 06:36:42  epoch: 10 ,  batch:   499 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0660  learning_rate 0.000500
+2020-01-11 06:43:09  epoch: 10 ,  batch:   549 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1320  learning_rate 0.000500
+2020-01-11 06:49:39  epoch: 10 ,  batch:   599 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1377  learning_rate 0.000500
+2020-01-11 06:57:39  epoch:    10 , train_acc: 0.9673  train_loss: 0.1106  val_acc: 0.9700  val_loss: 0.1018
+2020-01-11 07:03:57  epoch: 11 ,  batch:    49 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0411  learning_rate 0.000397
+2020-01-11 07:10:36  epoch: 11 ,  batch:    99 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0764  learning_rate 0.000397
+2020-01-11 07:17:11  epoch: 11 ,  batch:   149 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0690  learning_rate 0.000397
+2020-01-11 07:23:34  epoch: 11 ,  batch:   199 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1303  learning_rate 0.000397
+2020-01-11 07:31:16  epoch:    11 , train_acc: 0.9676  train_loss: 0.1052  val_acc: 0.9702  val_loss: 0.1012
+2020-01-11 07:37:54  epoch: 11 ,  batch:   249 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0812  learning_rate 0.000397
+2020-01-11 07:44:11  epoch: 11 ,  batch:   299 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1381  learning_rate 0.000397
+2020-01-11 07:50:46  epoch: 11 ,  batch:   349 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0804  learning_rate 0.000397
+2020-01-11 07:57:23  epoch: 11 ,  batch:   399 , avg_batch_acc: 0.9700  avg_batch_loss: 0.0806  learning_rate 0.000397
+2020-01-11 08:04:49  epoch:    11 , train_acc: 0.9660  train_loss: 0.1120  val_acc: 0.9703  val_loss: 0.1006
+2020-01-11 08:10:42  epoch: 11 ,  batch:   449 , avg_batch_acc: 0.9300  avg_batch_loss: 0.1550  learning_rate 0.000397
+2020-01-11 08:16:38  epoch: 11 ,  batch:   499 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0713  learning_rate 0.000397
+2020-01-11 08:22:43  epoch: 11 ,  batch:   549 , avg_batch_acc: 0.9600  avg_batch_loss: 0.2825  learning_rate 0.000397
+2020-01-11 08:28:52  epoch: 11 ,  batch:   599 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1698  learning_rate 0.000397
+2020-01-11 08:36:02  epoch:    11 , train_acc: 0.9680  train_loss: 0.1083  val_acc: 0.9706  val_loss: 0.1010
+2020-01-11 08:42:06  epoch: 12 ,  batch:    49 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1783  learning_rate 0.000315
+2020-01-11 08:48:03  epoch: 12 ,  batch:    99 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0653  learning_rate 0.000315
+2020-01-11 08:54:03  epoch: 12 ,  batch:   149 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0587  learning_rate 0.000315
+2020-01-11 09:00:07  epoch: 12 ,  batch:   199 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0557  learning_rate 0.000315
+2020-01-11 09:07:26  epoch:    12 , train_acc: 0.9673  train_loss: 0.1063  val_acc: 0.9701  val_loss: 0.1003
+2020-01-11 09:13:19  epoch: 12 ,  batch:   249 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1272  learning_rate 0.000315
+2020-01-11 09:19:22  epoch: 12 ,  batch:   299 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0650  learning_rate 0.000315
+2020-01-11 09:25:24  epoch: 12 ,  batch:   349 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1191  learning_rate 0.000315
+2020-01-11 09:31:29  epoch: 12 ,  batch:   399 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1682  learning_rate 0.000315
+2020-01-11 09:39:26  epoch:    12 , train_acc: 0.9699  train_loss: 0.1052  val_acc: 0.9703  val_loss: 0.1001
+2020-01-11 09:44:57  epoch: 12 ,  batch:   449 , avg_batch_acc: 0.9800  avg_batch_loss: 0.0479  learning_rate 0.000315
+2020-01-11 09:50:22  epoch: 12 ,  batch:   499 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1290  learning_rate 0.000315
+2020-01-11 09:55:44  epoch: 12 ,  batch:   549 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1378  learning_rate 0.000315
+2020-01-11 10:01:57  epoch: 12 ,  batch:   599 , avg_batch_acc: 0.9400  avg_batch_loss: 0.1459  learning_rate 0.000315
+2020-01-11 10:10:33  epoch:    12 , train_acc: 0.9656  train_loss: 0.1095  val_acc: 0.9703  val_loss: 0.0994
+2020-01-11 10:17:35  epoch: 13 ,  batch:    49 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0962  learning_rate 0.000251
+2020-01-11 10:25:29  epoch: 13 ,  batch:    99 , avg_batch_acc: 0.9900  avg_batch_loss: 0.1443  learning_rate 0.000251
+2020-01-11 10:33:36  epoch: 13 ,  batch:   149 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0841  learning_rate 0.000251
+2020-01-11 10:41:23  epoch: 13 ,  batch:   199 , avg_batch_acc: 1.0000  avg_batch_loss: 0.0408  learning_rate 0.000251
+2020-01-11 10:50:43  epoch:    13 , train_acc: 0.9674  train_loss: 0.1085  val_acc: 0.9706  val_loss: 0.0996
+2020-01-11 10:58:00  epoch: 13 ,  batch:   249 , avg_batch_acc: 0.9700  avg_batch_loss: 0.1426  learning_rate 0.000251
+2020-01-11 11:05:17  epoch: 13 ,  batch:   299 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0860  learning_rate 0.000251
+2020-01-11 11:12:18  epoch: 13 ,  batch:   349 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1100  learning_rate 0.000251
+2020-01-11 11:19:20  epoch: 13 ,  batch:   399 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1949  learning_rate 0.000251
+2020-01-11 11:28:00  epoch:    13 , train_acc: 0.9683  train_loss: 0.1044  val_acc: 0.9706  val_loss: 0.0987
+2020-01-11 11:34:53  epoch: 13 ,  batch:   449 , avg_batch_acc: 0.9900  avg_batch_loss: 0.1031  learning_rate 0.000251
+2020-01-11 11:40:56  epoch: 13 ,  batch:   499 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1543  learning_rate 0.000251
+2020-01-11 11:46:39  epoch: 13 ,  batch:   549 , avg_batch_acc: 0.9600  avg_batch_loss: 0.0813  learning_rate 0.000251
+2020-01-11 11:53:38  epoch: 13 ,  batch:   599 , avg_batch_acc: 0.9300  avg_batch_loss: 0.1636  learning_rate 0.000251
+2020-01-11 12:01:56  epoch:    13 , train_acc: 0.9684  train_loss: 0.1052  val_acc: 0.9709  val_loss: 0.0982
+2020-01-11 12:08:03  epoch: 14 ,  batch:    49 , avg_batch_acc: 0.9500  avg_batch_loss: 0.1586  learning_rate 0.000199
+2020-01-11 12:14:32  epoch: 14 ,  batch:    99 , avg_batch_acc: 0.9600  avg_batch_loss: 0.1201  learning_rate 0.000199
+2020-01-11 12:20:49  epoch: 14 ,  batch:   149 , avg_batch_acc: 0.9900  avg_batch_loss: 0.0753  learning_rate 0.000199
